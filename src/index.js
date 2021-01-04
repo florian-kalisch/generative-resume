@@ -14,7 +14,7 @@ import resumeDataEn from './translations/en/resume_data.json';
 
 i18next.init({
     interpolation: { escapeValue: false },
-    lng: 'de',
+    lng: 'en',
     resources: {
         en: {
             resume: resumeLngEn,
