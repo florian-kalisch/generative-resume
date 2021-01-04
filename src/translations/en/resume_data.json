@@ -1,0 +1,399 @@
+{
+  "basics": {
+    "name": "Florian Kalisch",
+    "label": "",
+    "summary": "__/^\\__ pro standards, contra averageness. Developer (looking for new Challenges) who ❤️ data, machine /deep learning and AI 🧠 in general, Neo4j 🕸, Blockchain, VR, and good conversations_ If my competences have aroused your interest, I would be pleased to hear from you.",
+    "photo": "me.jpeg",
+    "banner": "vision.svg",
+    "email": "kontakt@florian-kalisch.de",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": ""
+    },
+    "website": "florian-kalisch.de",
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "kalisch",
+        "url": "https://bit.ly/fka-linkedin",
+        "fa": "linkedin"
+      },
+      {
+        "network": "twitter",
+        "username": "FlorianKalisch",
+        "url": "https://bit.ly/fka-twitter",
+        "fa": "twitter"
+      },
+      {
+        "network": "tableau",
+        "username": "florian.kalisch",
+        "url": "https://bit.ly/fka-tableau",
+        "fa": "globe"
+      },
+      {
+        "network": "kaggle",
+        "username": "floriankalisch",
+        "url": "https://bit.ly/fka-kaggle",
+        "fa": "kaggle"
+      },
+      {
+        "network": "github",
+        "username": "florian-kalisch",
+        "url": "https://bit.ly/fka-github",
+        "fa": "github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "MSO Digital GmbH & Co. KG",
+      "summary": "Lead the Research and Development department, with the goal of unlocking current and future technologies to strengthen the company's competitiveness and shape the future of digital marketing.",
+      "position": "Head of Research and Development",
+      "startDate": "2018-12-01",
+      "endDate": "present",
+      "location": "Osnabrück",
+      "highlights": [
+      	"Designing a strategy for tapping artificial intelligence and distributed ledger technology.",
+      	"Development and implementation of an agile process model for project planning and management of complex, application-oriented research projects",
+      	"Design and implementation of a scalable and cost-efficient data lake architecture based on Amazon Web Services",
+      	"Advising NOZ Digital GmbH on the use of machine learning techniques",
+      	"Advising management on the procedural design of transactions in the context of M&A projects",
+      	"Preparation of a detailed guideline for technical due diligence"
+      ]
+    },
+    {
+      "company": "MSO Digital GmbH & Co. KG",
+      "summary": "Opening up the innovation area of voice apps",
+      "position": "Senior Software Developer",
+      "startDate": "2018-01-01",
+      "endDate": "2018-11-30",
+      "location": "Osnabrück",
+      "highlights": [
+      	"Design and implementation of the \"Marketing Guru\" voice app for MSO Digital using the following technology stack: JOVO Framework, AWS Lambda, AWS API Gateway, AWS DynamoDB, PHP and MySQL.",
+      	"Giving lectures on the topic of Voice User Interfaces at the Osnabrück University of Applied Sciences",
+      	"Design of a voice concept for a client"
+      ]
+    },
+    {
+      "company": "MSO Digital GmbH & Co. KG",
+      "summary": "",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "2017-12-31",
+      "location": "Osnabrück",
+      "highlights": [
+      	"Facebook based job listings for Meyer & Meyer",
+      	"Implementation of an AngularJS, PHP and MySQL based budget table",
+      	"Implementation of an AngularJS, PHP and MySQL based solution for the creation of recurring JIRA tasks.",
+      	"Design of a SaaS dashboard for publishers in a team and sole implementation of data sourcing and data visualization of Facebook data",
+      	"Design of a software architecture for the migration of a customized Salesforce instance and implementation of the architecture using PHP and MySQL"
+      ]
+    },
+    {
+      "company": "MSO Digital GmbH & Co. KG",
+      "summary": "",
+      "position": "Junior Software Developer",
+      "startDate": "2014-09-01",
+      "endDate": "2015-12-31",
+      "location": "Osnabrück",
+      "highlights": [
+      	"Administration und Support der Enterprise Collaboration Platform Google Apps for Work",
+      	"Management of the entire CRM area of MSO Digital",
+      	"Adaptation and further development of the Salesforce Sales Cloud of MSO Digital",
+      	"Strategic consulting for the Salesforce implementation for a client",
+      	"Design and implementation of Salesforce dashboards",
+      	"Design and implementation of a web service for MDH AG, for the validation of contact form data and subsequent transfer to Salesforce"
+      ]
+    },
+    {
+      "company": "Pentasys AG",
+      "summary": "Master-Thesis: Automated individualization in One-2-One Recruiting",
+      "position": "Master student",
+      "startDate": "2013-03-01",
+      "endDate": "2013-11-30",
+      "location": "Munich",
+      "highlights": [
+      	"Definition of the research questions",
+      	"Anforderungsanalyse",
+      	"Design of the system architecture",
+      	"Building a skill graph",
+      	"Development of a Chrome extension (client)",
+      	"Definition of Cypher Queries"
+      ]
+    },
+    {
+      "company": "Fraunhofer IAO",
+      "summary": "Work on subsections to develop a multi-resolution display.",
+      "position": "Certified research assistant",
+      "startDate": "2009-09-01",
+      "endDate": "2011-02-01",
+      "location": "Stuttgart",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Fraunhofer IAO",
+      "summary": "As part of my bachelor thesis, I worked on the development of a multi-resolution display.",
+      "position": "Auxiliary Scientist",
+      "startDate": "2009-04-01",
+      "endDate": "2009-09-01",
+      "location": "Stuttgart",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Fraunhofer IAO",
+      "summary": "Further development of the applications created in my internship semester as well as support for them.",
+      "position": "Auxiliary Scientist",
+      "startDate": "2008-09-01",
+      "endDate": "2009-03-31",
+      "location": "Stuttgart",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Fraunhofer IAO",
+      "summary": "During my internship semester, I was able to participate in the EU research project TrainALL. I designed and programmed a C++ API for recording driving simulation data, created a database design for capturing metadata and was allowed to present the project results in Stockholm.",
+      "position": "Praxissemester",
+      "startDate": "2008-03-01",
+      "endDate": "2008-08-31",
+      "location": "Stuttgart",
+      "highlights": [
+      	"Performance testing of database systems",
+      	"Conception of a C++ API for the recording of driving data",
+      	"Entwurf eines Datenbankdesigns zur Verwaltung der Fahrdaten sowie zugehörigen Metadaten",
+      	"Conception of a web application (based on the Spring framework)",
+      	"Presentation of the project status at an international project meeting in Stockholm",
+      	"Writing of a 70 page report in English language"
+      ]
+    },
+    {
+      "company": "Datagroup GmbH",
+      "summary": "During my apprenticeship as an IT specialist I was able to build up expertise with the (objectrational) DBMS Caché and Visual Basic.",
+      "position": "Apprenticeship as IT specialist",
+      "startDate": "2001-09-01",
+      "endDate": "2004-06-09",
+      "location": "Pliezhusen",
+      "highlights": [
+      	"Database development with the DBMS Intersystems Caché",
+      	"Development with Caché Server Pages",
+      	"Application development with Visual Basic",
+      	"Development of a management software for vacation requests in the team",
+      	"Final project: Development of a generator for dynamic WebWizards"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Ausbildereignungsschein",
+      "date": "2019-04-08",
+      "issuer": "IHK Osnabrück",
+      "url": ""
+    },
+    {
+      "name": "Certified Software Tester (Foundation Level)",
+      "date": "2008-02-25",
+      "issuer": "International Software Quality Institute",
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "Fachhochschule Furtwangen - Hochschule für Technik und Wirtschaft",
+      "area": "Application Architectures",
+      "studyType": "Master of Science",
+      "startDate": "2010-10-01",
+      "endDate": "2013-12-31",
+      "location": "Furtwangen",
+      "description": "Software Architecture, Data Warehouse, Artificial intelligence, Business Software, Model Driven Architecture"
+    },
+    {
+      "institution": "Fachhochschule Furtwangen - Hochschule für Technik und Wirtschaft",
+      "area": "General computer science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2007-03-01",
+      "endDate": "2010-02-28",
+      "location": "Furtwangen",
+      "description": "Database applications, image processing, scientific computing"
+    },
+    {
+      "institution": "Fachhochschule Furtwangen - Hochschule für Technik und Wirtschaft",
+      "area": "General computer science",
+      "studyType": "Diploma program [FH]",
+      "startDate": "2004-10-01",
+      "endDate": "2007-02-28",
+      "location": "Furtwangen",
+      "description": "Started in the last diploma program and transferred to the bachelor's program."
+    },
+    {
+      "institution": "Ferdinand-von-Steinbeis-Schule",
+      "area": "Application Development",
+      "studyType": "Fachinformatiker",
+      "startDate": "2001-09-01",
+      "endDate": "2004-07-05",
+      "location": "Reutlingen"
+    },
+    {
+      "institution": "Ferdinand-von-Steinbeis-Schule",
+      "area": "Additional degree",
+      "studyType": "Additional degree",
+      "startDate": "2001-11-12",
+      "endDate": "2004-07-09",
+      "location": "Reutlingen",
+      "description": "Additional degree parallel to apprenticeship"
+    }
+  ],
+  "skillEvaluationSchemaReference": "",
+  "skills": [
+    {
+      "name": "Probability",
+      "level": "Novice",
+      "levelNumeric": "2",
+      "keywords": []
+    },
+    {
+      "name": "Statistik",
+      "level": "Novice",
+      "levelNumeric": "2",
+      "keywords": [
+        "Distributions",
+        "Central limit theorem",
+        "Confidence intervals",
+        "Hypothesis testing",
+        "Regression analysis",
+        "Cluster analysis"
+      ]
+    },
+    {
+      "name": "Linear algebra",
+      "level": "Novice",
+      "levelNumeric": "2",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "levelNumeric": "3",
+      "keywords": [
+        "NumPy",
+        "pandas",
+        "matplotlib",
+        "scikit-learn",
+        "PuLP",
+        "deap",
+        "Scrapy"
+      ]
+    },
+    {
+      "name": "Genetic algorithms",
+      "level": "Novice",
+      "levelNumeric": "2",
+      "keywords": []
+    },
+    {
+      "name": "Fuzzy logic",
+      "level": "Novice",
+      "levelNumeric": "2",
+      "keywords": []
+    },
+    {
+      "name": "Deep Learning",
+      "level": "Fundamental Awareness",
+      "levelNumeric": "1",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services",
+      "level": "Intermediate",
+      "levelNumeric": "3",
+      "keywords": [
+        "API Gateway",
+        "DynamoDB",
+        "Lambda",
+        "S3"
+      ]
+    },
+    {
+      "name": "Data visualization",
+      "level": "Intermediate",
+      "levelNumeric": "3",
+      "keywords": [
+        "Tableau Public",
+        "Google Data Studio"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Advanced",
+      "levelNumeric": "4",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "levelNumeric": "3",
+      "keywords": [
+        "ES6",
+        "Node.js",
+        "React",
+        "Jovo Framework"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Intermediate",
+      "levelNumeric": "3",
+      "keywords": []
+    },
+    {
+      "name": "Neo4j",
+      "level": "Novice",
+      "levelNumeric": "2",
+      "keywords": []
+    },
+    {
+      "name": "Voice Apps",
+      "level": "Intermediate",
+      "levelNumeric": "3",
+      "keywords": []
+    },
+    {
+      "name": "Software Architecture",
+      "level": "Novice",
+      "levelNumeric": "2",
+      "keywords": []
+    },
+    {
+      "name": "Digital marketing",
+      "level": "Novice",
+      "levelNumeric": "2",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Mother tongue",
+      "code": "de"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "code": "en"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Nutritional optimization",
+      "summary": "This project is a private side project and has the objective to calculate the optimal ingredients for all meals of a day. In order for the ingredients to be considered optimal, they must fulfill two conditions: 1) they must cover the minimum values for nutrients specified by the German Nutrition Society and thus be beneficial to health 2) they must be the ones that have the lowest total weight among all possible foods and combinations. For this purpose, I scraped nutritional data and formulated the optimization problem as a linear system of equations, which I solved using the Python framework PuLP. Furthermore, I set up confidence intervals for the weight of the vegetables found, so that weighing the vegetables can be omitted.",
+      "url": ""
+    },
+    {
+      "name": "Dynamic online resume",
+      "summary": "After discovering the awesome project JSON Resume on GitHub, which defines a data format for a resume, I was looking for a way to generate an online resume / portfolio from it. After not finding a satisfactory solution, I developed one myself using React.js.",
+      "url": "https://github.com/florian-kalisch/generative-resume"
+    }
+  ]
+}

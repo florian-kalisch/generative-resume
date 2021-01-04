@@ -1,0 +1,13 @@
+{
+    "resume": {
+        "work": "Work experience",
+        "contact": "Contact details",
+        "profiles": "Web pages",
+        "skills": "Skills",
+        "projects": "Selected projects",
+        "education": "Education",
+        "languages": "Languages",
+        "level": "Level",
+        "certificates": "Certificates"
+    }
+}

@@ -1,0 +1,399 @@
+{
+  "basics": {
+    "name": "Florian Kalisch",
+    "label": "",
+    "summary": "__/^\\__ Pro Standards, Kontra Durchschnittlichkeit. Entwickler (auf der Suche nach neuen Herausforderungen), der Daten ❤️, machine / deep learning und KI 🧠 im Allgemeinen, Neo4j 🕸, Blockchain, VR, und gute Unterhaltungen_ Falls meine Kompetenzen Ihr Interesse geweckt haben, freue ich mich über eine Kontaktaufnahme.",
+    "photo": "me.jpeg",
+    "banner": "vision.svg",
+    "email": "kontakt@florian-kalisch.de",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": ""
+    },
+    "website": "florian-kalisch.de",
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "kalisch",
+        "url": "https://bit.ly/fka-linkedin",
+        "fa": "linkedin"
+      },
+      {
+        "network": "twitter",
+        "username": "FlorianKalisch",
+        "url": "https://bit.ly/fka-twitter",
+        "fa": "twitter"
+      },
+      {
+        "network": "tableau",
+        "username": "florian.kalisch",
+        "url": "https://bit.ly/fka-tableau",
+        "fa": "globe"
+      },
+      {
+        "network": "kaggle",
+        "username": "floriankalisch",
+        "url": "https://bit.ly/fka-kaggle",
+        "fa": "kaggle"
+      },
+      {
+        "network": "github",
+        "username": "florian-kalisch",
+        "url": "https://bit.ly/fka-github",
+        "fa": "github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "MSO Digital GmbH & Co. KG",
+      "summary": "Leitung des Bereichs Forschung und Entwicklung, mit dem Ziel der Erschließung aktueller und zukünftiger Technologien, um die Wettbewerbsfähigkeit des Unternehmens zu stärken und die Zukunft des digitalen Marketings zu prägen.",
+      "position": "Head of Research and Development",
+      "startDate": "2018-12-01",
+      "endDate": "present",
+      "location": "Osnabrück",
+      "highlights": [
+      	"Entwurf einer Strategie zur Erschließung von Künstlicher Intelligenz und Distributed Ledger Technology",
+      	"Erarbeitung und Umsetzung eines agilen Vorgehensmodells für die Projektplanung und -steuerung von komplexen, anwendungsorientierten Forschungsprojekten",
+      	"Konzeption und Umsetzung einer skalierbaren und kosteneffizienten Data-Lake Architektur, basierend auf den Amazon Web Services",
+      	"Beratung der NOZ Digital GmbH bei dem Einsatz von maschinellen Lernverfahren",
+      	"Beratung der Geschäftsführung in Bezug auf die prozesstechnische Ausgestaltung von Transaktionen im Kontext von M&A-Projekten",
+      	"Erstellung eines detaillierten Leitfadens für die Technical-Due-Diligence"
+      ]
+    },
+    {
+      "company": "MSO Digital GmbH & Co. KG",
+      "summary": "Erschließung des Innovationsbereiches Voice-Apps",
+      "position": "Senior Software Developer",
+      "startDate": "2018-01-01",
+      "endDate": "2018-11-30",
+      "location": "Osnabrück",
+      "highlights": [
+      	"Konzeption und Umsetzung der Voice-App \"Marketing Guru\" für die MSO Digital unter Verwendung des folgenden Technologie-Stacks: JOVO Framework, AWS Lambda, AWS API Gateway, AWS DynamoDB, PHP und MySQL",
+      	"Halten von Vorträgen zum Thema Voice User Interfaces an der Hochschule Osnabrück",
+      	"Entwurf eines Voice-Konzeptes für einen Kunden"
+      ]
+    },
+    {
+      "company": "MSO Digital GmbH & Co. KG",
+      "summary": "",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "2017-12-31",
+      "location": "Osnabrück",
+      "highlights": [
+      	"Facebook basierte Job-Listings für Meyer & Meyer",
+      	"Umsetzung einer AngularJS, PHP und MySQL basierten Budget Tabelle",
+      	"Umsetzung einer AngularJS, PHP und MySQL basierten Lösung zur Anlage von wiederkehrenden JIRA-Tasks",
+      	"Konzeption eines SaaS Dashboards für Verlage im Team und alleinige Umsetzung der Datenbeschaffung und Datenvisualisierung von Facebook Daten",
+      	"Entwurf einer Software Architektur für die Migration einer angepassten Salesforce Instanz und Umsetzung der Architektur mittels PHP und MySQL"
+      ]
+    },
+    {
+      "company": "MSO Digital GmbH & Co. KG",
+      "summary": "",
+      "position": "Junior Software Developer",
+      "startDate": "2014-09-01",
+      "endDate": "2015-12-31",
+      "location": "Osnabrück",
+      "highlights": [
+      	"Administration und Support der Enterprise Collaboration Platform Google Apps for Work",
+      	"Management des gesamten CRM Bereiches der MSO Digital",
+      	"Anpassung und Weiterentwicklung der Salesforce Sales Cloud der MSO Digital",
+      	"Strategische Beratung bei der Salesforce Einführung für einen Kunden",
+      	"Konzeption und Umsetzung von Salesforce Dashboards",
+      	"Konzeption und Umsetzung eines Webservices für die MDH AG, zur Validierung von Kontaktformulardaten und anschließender Übertragung zu Salesforce"
+      ]
+    },
+    {
+      "company": "Pentasys AG",
+      "summary": "Master-Thesis: Automatisierte Individualisierung im One-2-One Recruiting",
+      "position": "Masterstudent",
+      "startDate": "2013-03-01",
+      "endDate": "2013-11-30",
+      "location": "München",
+      "highlights": [
+      	"Definition der Forschungsfragen",
+      	"Requirements Engineering",
+      	"Entwurf der System Architektur",
+      	"Aufbau eines Skill-Graph",
+      	"Entwicklung einer Chrome Erweiterung (Client)",
+      	"Definition Cypher Queries"
+      ]
+    },
+    {
+      "company": "Fraunhofer IAO",
+      "summary": "Arbeit an Teilbereichen zur Entwicklung eines Multi-Resolution-Displays.",
+      "position": "Geprüfte wissenschaftliche Hilfskraft",
+      "startDate": "2009-09-01",
+      "endDate": "2011-02-01",
+      "location": "Stuttgart",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Fraunhofer IAO",
+      "summary": "Im Rahmen meiner Bachelor-Thesis arbeitete ich mit an der Entwicklung eines Multi-Resolution-Displays.",
+      "position": "Hilfswissenschaftler",
+      "startDate": "2009-04-01",
+      "endDate": "2009-09-01",
+      "location": "Stuttgart",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Fraunhofer IAO",
+      "summary": "Weiterentwicklung der in meinem Praxissemester erstellten Applikationen sowie Support für diese.",
+      "position": "Hilfswissenschaftler",
+      "startDate": "2008-09-01",
+      "endDate": "2009-03-31",
+      "location": "Stuttgart",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Fraunhofer IAO",
+      "summary": "Im Rahmen meines Praxissemesters konnte ich an dem EU-Forschungsprojekt TrainALL mitwirken. Dabei konzipierte und programmierte ich eine C++ API zur Aufzeichnung von Fahrsimulationsdaten, entwarf ein Datenbankdesign zur Erfassung von Metadaten und durfte die Projektergebnisse in Stockholm präsentieren.",
+      "position": "Praxissemester",
+      "startDate": "2008-03-01",
+      "endDate": "2008-08-31",
+      "location": "Stuttgart",
+      "highlights": [
+      	"Performancetests von Datenbanksystemen",
+      	"Konzeption einer C++-API zur Aufzeichnung von Fahrdaten",
+      	"Entwurf eines Datenbankdesigns zur Verwaltung der Fahrdaten sowie zugehörigen Metadaten",
+      	"Konzeption einer Webapplikation (basierend auf dem Spring-Framework)",
+      	"Präsentation des Projektstatus bei einem internationalen Projekttreffens in Stockholm",
+      	"Verfassen eines 70 seitigen Berichts in englischer Sprache"
+      ]
+    },
+    {
+      "company": "Datagroup GmbH",
+      "summary": "Im Rahmen meiner Ausbildung zu Fachinformatiker konnte ich Expertise mit dem (objektrationalen) DBMS Caché und Visual Basic aufbauen.",
+      "position": "Ausbildung zum Fachinformatiker",
+      "startDate": "2001-09-01",
+      "endDate": "2004-06-09",
+      "location": "Pliezhusen",
+      "highlights": [
+      	"Datenbankentwicklung mit dem DBMS Intersystems Caché",
+      	"Entwicklung mit Caché Server Pages",
+      	"Anwendungsentwicklung mit Visual Basic",
+      	"Entwicklung einer Verwaltungssoftware für Urlaubsanträge im Team",
+      	"Abschlussarbeit: Entwicklung eines Generators für dynamische WebWizards"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Ausbildereignungsschein",
+      "date": "2019-04-08",
+      "issuer": "IHK Osnabrück",
+      "url": ""
+    },
+    {
+      "name": "Zertifizierter Software-Tester (Foundation Level)",
+      "date": "2008-02-25",
+      "issuer": "International Software Quality Institute",
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "Fachhochschule Furtwangen - Hochschule für Technik und Wirtschaft",
+      "area": "Application Architectures",
+      "studyType": "Master of Science",
+      "startDate": "2010-10-01",
+      "endDate": "2013-12-31",
+      "location": "Furtwangen",
+      "description": "Software Architecture, Data Warehouse, Künstliche Intelligenz, Business Software, Model Driven Architecture"
+    },
+    {
+      "institution": "Fachhochschule Furtwangen - Hochschule für Technik und Wirtschaft",
+      "area": "Allgemeine Informatik",
+      "studyType": "Bachelor of Science",
+      "startDate": "2007-03-01",
+      "endDate": "2010-02-28",
+      "location": "Furtwangen",
+      "description": "Datenbankapplikationen, Bildverarbeitung, Scientific-Computing"
+    },
+    {
+      "institution": "Fachhochschule Furtwangen - Hochschule für Technik und Wirtschaft",
+      "area": "Allgemeine Informatik",
+      "studyType": "Diplomstudiengang [FH]",
+      "startDate": "2004-10-01",
+      "endDate": "2007-02-28",
+      "location": "Furtwangen",
+      "description": "Im letzten Diplomstudiengang begonnen und in den Bachelorstudiengang gewechselt."
+    },
+    {
+      "institution": "Ferdinand-von-Steinbeis-Schule",
+      "area": "Anwendungsentwicklung",
+      "studyType": "Fachinformatiker",
+      "startDate": "2001-09-01",
+      "endDate": "2004-07-05",
+      "location": "Reutlingen"
+    },
+    {
+      "institution": "Ferdinand-von-Steinbeis-Schule",
+      "area": "Zusatzqualifikation",
+      "studyType": "Fachhochschulreife",
+      "startDate": "2001-11-12",
+      "endDate": "2004-07-09",
+      "location": "Reutlingen",
+      "description": "Zusatzqualifikation parallel zur Ausbildung"
+    }
+  ],
+  "skillEvaluationSchemaReference": "",
+  "skills": [
+    {
+      "name": "Wahrscheinlichkeitsrechnung",
+      "level": "Novice",
+      "levelNumeric": "2",
+      "keywords": []
+    },
+    {
+      "name": "Statistik",
+      "level": "Novice",
+      "levelNumeric": "2",
+      "keywords": [
+        "Distributionen",
+        "Zentraler Grenzwertsatz",
+        "Konfidenzintervalle",
+        "Hypothesentest",
+        "Regressionsanalyse",
+        "Clusteranalyse"
+      ]
+    },
+    {
+      "name": "Lineare Algebra",
+      "level": "Novice",
+      "levelNumeric": "2",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "levelNumeric": "3",
+      "keywords": [
+        "NumPy",
+        "pandas",
+        "matplotlib",
+        "scikit-learn",
+        "PuLP",
+        "deap",
+        "Scrapy"
+      ]
+    },
+    {
+      "name": "Genetische Algorithmen",
+      "level": "Novice",
+      "levelNumeric": "2",
+      "keywords": []
+    },
+    {
+      "name": "Fuzzylogik",
+      "level": "Novice",
+      "levelNumeric": "2",
+      "keywords": []
+    },
+    {
+      "name": "Deep Learning",
+      "level": "Fundamental Awareness",
+      "levelNumeric": "1",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services",
+      "level": "Intermediate",
+      "levelNumeric": "3",
+      "keywords": [
+        "API Gateway",
+        "DynamoDB",
+        "Lambda",
+        "S3"
+      ]
+    },
+    {
+      "name": "Datenvisualisierung",
+      "level": "Intermediate",
+      "levelNumeric": "3",
+      "keywords": [
+        "Tableau Public",
+        "Google Data Studio"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Advanced",
+      "levelNumeric": "4",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "levelNumeric": "3",
+      "keywords": [
+        "ES6",
+        "Node.js",
+        "React",
+        "Jovo Framework"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Intermediate",
+      "levelNumeric": "3",
+      "keywords": []
+    },
+    {
+      "name": "Neo4j",
+      "level": "Novice",
+      "levelNumeric": "2",
+      "keywords": []
+    },
+    {
+      "name": "Voice Apps",
+      "level": "Intermediate",
+      "levelNumeric": "3",
+      "keywords": []
+    },
+    {
+      "name": "Softwarearchitektur",
+      "level": "Novice",
+      "levelNumeric": "2",
+      "keywords": []
+    },
+    {
+      "name": "Digitales Marketing",
+      "level": "Novice",
+      "levelNumeric": "2",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Deutsch",
+      "fluency": "Muttersprache",
+      "code": "de"
+    },
+    {
+      "language": "Englisch",
+      "fluency": "Fließend",
+      "code": "en"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Nährwertoptimierung",
+      "summary": "Dieses Projekt ist ein privates Nebenprojekt und verfolgt die Zielsetzung, die optimalen Zutaten für alle Mahlzeiten eines Tages zu berechnen. Damit die Zutaten als optimal angesehen werden können, müssen sie zwei Bedingungen erfüllen: 1) sie müssen die von der Deutschen Gesellschaft für Ernährung vorgegebenen Mindestwerte für Nährstoffen abdecken und damit der Gesundheit dienlich sein 2) sie müssen unter allen möglichen Nahrungsmitteln und Kombinationen diejenigen sein, welche in Summe das geringste Gesamtgewicht besitzen. Dazu scrapte ich Nährwertdaten und formulierte das Optimierungsproblem als lineares Gleichungssystem, welches ich mit dem Python Framework PuLP löste. Weiterhin stellte ich Konfidenzintervalle für das Gewicht der gefundenen Gemüsesorten auf, so dass auf ein Wiegen des Gemüses verzichtet werden kann.",
+      "url": ""
+    },
+    {
+      "name": "Dynamischer Online-Lebenslauf",
+      "summary": "Nachdem ich das geniale Projekt JSON Resume auf GitHub entdeckte, welches ein Datenformat für einen Lebenslauf definiert, suchte ich nach einer Möglichkeit, um daraus einen Online Lebenslauf / Portfolio zu generieren. Nachdem ich keine zufriedenstellende Lösung gefunden habe, entwickelte ich unter Verwendung von React.js selbst eine.",
+      "url": "https://github.com/florian-kalisch/generative-resume"
+    }
+  ]
+}

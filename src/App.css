@@ -1,38 +1,228 @@
-.App {
-  text-align: center;
+/*generative-resume
+Copyright Florian Kalisch
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+ http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.*/
+
+@media screen 
+  and (min-width: 320px) 
+  and (max-width: 1000px){
+
+    * {
+      font-size: 10pt;
+    }
+
+    #rootsection {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      grid-gap: 25px;
+      grid-auto-columns: minmax(0px, auto);
+      grid-template-areas:
+          "photo heading"
+          "photo menue"
+          "main main"
+          "sidebar sidebar";
+      margin-left: 25px;
+      margin-right: 25px;
+    }
+
+    #main {
+      display: flex;
+      grid-area: main;
+      flex-wrap: wrap;
+      margin-left: 25px;
+      margin-right: 25px;
+    }
+
+    #photo > img {
+      height: 200px;
+    }
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+@media screen 
+  and (min-width: 1001px) {
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    #rootsection {
+      display: grid;
+      grid-template-columns: auto 1fr 1fr;
+      grid-gap: 0px;
+      grid-auto-columns: minmax(0px, auto);
+      grid-template-areas:
+          "photo heading heading"
+          "photo menue menue"
+          "sidebar main main";
+      margin-left: 25px;
+      margin-right: 25px;
+    }
+
+    #main {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-auto-rows: minmax(0px, auto);
+      grid-template-areas:
+          "title title"
+          "projects projects"
+          "work certificates"
+          "work education"
+          "work placeholder";
+      grid-area: main;
+      grid-gap: 10px;
+      align-items: start;
+      /*margin-left: 25px;*/
+      margin-right: 25px;
   }
+
+  #photo > img {
+      height: 400px;
+    }
+
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+#heading {
+  display: grid;
+  grid-area: heading;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-items: center;
 }
 
-.App-link {
-  color: #61dafb;
+#heading img {
+  align-items: center;
+  max-width: 100%;
+  height: auto;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#menue {
+  grid-area: menue;
+  flex-direction: row;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  font-size: 20pt;
+}
+
+#menue button {
+  background: none;
+  border: none;
+  padding: 0;
+  color: #069;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+#menue div {
+  margin-right: 10px;
+}
+
+#photo {
+  display: grid;
+  grid-area: photo;
+  align-items: center;
+  justify-items: center;
+  object-fit: cover;
+}
+
+#title {
+  display: grid;
+  grid-area: title;
+}
+
+#projects {
+  display: grid;
+  grid-area: projects;
+}
+
+#work {
+  display: grid;
+  grid-area: work;
+}
+
+#education {
+  display: grid;
+  grid-area: education;
+}
+
+#certificates {
+  display: grid;
+  grid-area: certificates;
+}
+
+span, header, section, aside, div, img {
+  border: 0px solid;
+}
+
+#sidebar {
+  grid-area: sidebar;
+}
+
+#sidebar ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+#sidebar ul li i svg {
+  min-width: 16px;
+  max-width: 16px;
+}
+
+#sidebar ul li span {
+  margin-left: 5px;
+}
+
+.blocks {
+  display: flex;
+  flex-flow: column;
+}
+
+.details {
+  display: flex;
+  flex-flow: column;
+}
+
+header {
+  display: flex;
+  flex-flow: column;
+  align-items: flex-start;
+}
+
+.date {
+  padding-top: 25px;
+}
+
+.date span:nth-child(2)::before{
+  content: ' - ';
+}
+
+h2, h3 {
+  margin: 0px;
+}
+
+.details div {
+  padding-top: 10px;
+}
+
+.blog {
+  display: flex;
+  flex-flow: column;
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: lightgrey;
+  text-align: justify
+}
+
+.blog p {
+  margin: 0px;
+  align-content: center;
+}
+
+.blog pre {
+  background-color: grey;
+  border: 1px solid;
+  max-width: 50%;
 }
