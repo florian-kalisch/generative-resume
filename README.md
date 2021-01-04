@@ -8,6 +8,7 @@ My main criteria were:
 - a good looking print design
 - multilingualism
 - a high level of detail in the competence levels
+- usage of a modern web framework so that a more detailed personal web presence can be built later on
 
 ## Open source projects used
 For the main HTML structure and print-css design I used html-resume from [Min-Zhong "John" Lu](https://github.com/mnjul/html-resume). I din't fork it, because of the refactoring into React.js and the dynamic JSONResume functionality which is way more than the original intention of a neat, print optimized one page resume.
@@ -18,7 +19,7 @@ The main file structure is based on the [JSONResume Schema](https://github.com/j
 * added levelNumeric to skills objects
 * added basics.photo that holds the image name of the profile picture
 * added basics.banner that holds the image name of a banner picture
-* added the code attribute to languages
+* added the code attribute, [ISO-639-1-Codes](https://de.wikipedia.org/wiki/Liste_der_ISO-639-1-Codes), to languages 
 
 ## Defining the JSON
 You can quickly export your LinkedIn Profile with this [JSON Resume Exporter](https://chrome.google.com/webstore/detail/json-resume-exporter/caobgmmcpklomkcckaenhjlokpmfbdec)
@@ -31,19 +32,20 @@ The following limitations exist and heven't been fixed / developed yet:
 * in print / pdf preview with multiple pages the page hight needs manual adjustment
 * only the JSONResume schema subset I need has been developed
 * in profiles.fa only the following fontawesome icons are supported: linkedin, twitter, globe, kaggle, github
+* i18n translations are only provided for german (code de) and english (code en) (feel free to provide some more)
 
 ## Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). After defining a translated resume file for every defined language under src/translations/.../resume_data.json where ... matches the code attribute
 
 ```javascript
 {
-	"language": "Englisch",
-	"fluency": "Fließend",
+	"language": "English",
+	"fluency": "fluent",
 	"code": "en"
 }
 ```
 
-You can view / create the app as described in the following sections.
+You can view / build the app as described in the following sections.
 
 ### Available Scripts
 
