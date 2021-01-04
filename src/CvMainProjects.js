@@ -8,8 +8,8 @@ function CvMainHeader(props) {
           <div className="date">
             {props.project.startDate && <span>{props.project.startDate}</span>} {props.project.startDate && <span>{props.project.endDate}</span>}
           </div>
-          <div className="decorator">
-          </div>
+          {/*<div className="decorator">
+          </div>*/}
           <div className="details">
             <header>
               <h3>{props.project.name}</h3>

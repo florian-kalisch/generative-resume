@@ -19,9 +19,10 @@ function CvMainHeader(props) {
           <span className="place"> {props.work.company}</span>
           <span className="location"> <FontAwesomeIcon icon="map-marker-alt" /> {props.work.location}</span>
         </header>
-        <span className="summary">
+        {props.work.summary ?
+          <span className="summary">
             {props.work.summary}
-          </span>
+          </span> : null}
         <div>
         
           {props.work.highlights ? 

@@ -226,3 +226,7 @@ h2, h3 {
   border: 1px solid;
   max-width: 50%;
 }
+
+ul {
+  margin-top: 5px;
+}
