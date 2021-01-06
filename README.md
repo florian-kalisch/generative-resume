@@ -72,3 +72,15 @@ The main file structure is based on the [JSONResume Schema](https://github.com/j
 * added basics.photo that holds the image name of the profile picture
 * added basics.banner that holds the image name of a banner picture
 * added the code attribute, [ISO-639-1-Codes](https://de.wikipedia.org/wiki/Liste_der_ISO-639-1-Codes), to languages 
+
+
+## Licenses
+
+### Source code (excluding resume_data.json)
+Since [Min-Zhong "John" Lu](https://github.com/mnjul/html-resume) has licensed his project under Apache-2.0 License, this project is also licensed under [Apache-2.0 License](https://github.com/florian-kalisch/generative-resume/blob/main/LICENSE).
+
+
+### My curriculum vitae (CV)
+[![CC BY-NC-ND 4.0](https://i.creativecommons.org/l/by-nd/4.0/88x31.png "CC BY-ND 4.0")](http://creativecommons.org/licenses/by-nd/4.0/ "CC BY-ND 4.0")
+
+Since I consider my CV (resume_data.json and the generated curriculum vitae) to be a creative work, it is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/ "CC BY-ND 4.0").
