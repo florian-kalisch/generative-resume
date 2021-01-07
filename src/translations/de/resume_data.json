@@ -144,7 +144,7 @@
       "endDate": "2009-10-19",
       "location": "Stuttgart",
       "highlights": [
-		"Evaluation von Algorithmen zur Kanten- und Eckpunkterkennung, sowie prototypische Implementierungen",
+        "Evaluation von Algorithmen zur Kanten- und Eckpunkterkennung, sowie prototypische Implementierungen",
         "Verifikation der Algorithmen anhand eines realen Versuchsaufbaus zur Vermessung von 3D Projektionen"
       ]
     },
@@ -394,13 +394,13 @@
       "name": "Nährwertoptimierung",
       "summary": "Dieses Projekt ist ein privates Nebenprojekt und verfolgt die Zielsetzung, die optimalen Zutaten für alle Mahlzeiten eines Tages zu berechnen. Damit die Zutaten als optimal angesehen werden können, müssen sie zwei Bedingungen erfüllen: 1) sie müssen die von der Deutschen Gesellschaft für Ernährung vorgegebenen Mindestwerte für Nährstoffen abdecken und damit der Gesundheit dienlich sein 2) sie müssen unter allen möglichen Nahrungsmitteln und Kombinationen diejenigen sein, welche in Summe das geringste Gesamtgewicht besitzen. Dazu scrapte ich Nährwertdaten und formulierte das Optimierungsproblem als lineares Gleichungssystem, welches ich mit dem Python Framework PuLP löste. Weiterhin stellte ich Konfidenzintervalle für das Gewicht der gefundenen Gemüsesorten auf, so dass auf ein Wiegen des Gemüses verzichtet werden kann.",
       "url": "",
-      "date": "2020-11-19"
+      "endDate": "2020-11-19"
     },
     {
       "name": "Dynamischer Online-Lebenslauf",
       "summary": "Nachdem ich das geniale Projekt JSON Resume auf GitHub entdeckte, welches ein Datenformat für einen Lebenslauf definiert, suchte ich nach einer Möglichkeit, um daraus einen Online Lebenslauf / Portfolio zu generieren. Nachdem ich keine zufriedenstellende Lösung gefunden habe, entwickelte ich unter Verwendung von React.js selbst eine.",
       "url": "https://github.com/florian-kalisch/generative-resume",
-      "date": "2021-01-04"
+      "endDate": "2021-01-04"
     }
   ]
 }

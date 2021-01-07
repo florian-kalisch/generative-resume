@@ -394,13 +394,13 @@
       "name": "Nutritional optimization",
       "summary": "This project is a private side project and has the objective to calculate the optimal ingredients for all meals of a day. In order for the ingredients to be considered optimal, they must fulfill two conditions: 1) they must cover the minimum values for nutrients specified by the German Nutrition Society and thus be beneficial to health 2) they must be the ones that have the lowest total weight among all possible foods and combinations. For this purpose, I scraped nutritional data and formulated the optimization problem as a linear system of equations, which I solved using the Python framework PuLP. Furthermore, I set up confidence intervals for the weight of the vegetables found, so that weighing the vegetables can be omitted.",
       "url": "",
-      "date": "2020-11-19"
+      "endDate": "2020-11-19"
     },
     {
       "name": "Dynamic online resume",
       "summary": "After discovering the awesome project JSON Resume on GitHub, which defines a data format for a resume, I was looking for a way to generate an online resume / portfolio from it. After not finding a satisfactory solution, I developed one myself using React.js.",
       "url": "https://github.com/florian-kalisch/generative-resume",
-      "date": "2021-01-04"
+      "endDate": "2021-01-04"
     }
   ]
 }
