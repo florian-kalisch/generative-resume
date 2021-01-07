@@ -14,6 +14,7 @@ limitations under the License.*/
 /* Florian Kalisch migrated html to jsx and adapted it to his requirements. */
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import Moment from 'react-moment';
 
 function CvMainHeader(props) {
 
@@ -21,10 +22,10 @@ function CvMainHeader(props) {
 
     <section className="blocks">
           <div className="date">
-            {props.project.startDate && <span>{props.project.startDate}</span>} {props.project.startDate && <span>{props.project.endDate}</span>}
+            {props.project.endDate ? <span> <span className="calendar"><FontAwesomeIcon icon="calendar-alt" /></span> <Moment format='YYYY'>{props.project.endDate}</Moment> </span> : <span></span>}
           </div>
-          {/*<div className="decorator">
-          </div>*/}
+          <div className="decorator">
+          </div>
           <div className="details">
             <header>
               <h3>{props.project.name}</h3>

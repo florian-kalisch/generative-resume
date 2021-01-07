@@ -21,7 +21,7 @@ function CvMainHeader(props) {
 
   return (
 
-  	<section className="blocks">
+    <section className="blocks">
       <div className="date">
       <span> <span className="calendar"><FontAwesomeIcon icon="calendar-alt" /></span> <Moment format='YYYY-MM'>{props.work.startDate}</Moment> </span> {Date.parse(props.work.endDate) ? <span><Moment format='YYYY-MM'>{props.work.endDate}</Moment></span> : <span>heute</span> }
         {/*<span><Moment format='YYYY-MM'>{props.work.startDate}</Moment> </span><span><Moment format='YYYY-MM'>{Date.parse(props.work.endDate) ? props.work.endDate : new Date()}</Moment></span>*/}
