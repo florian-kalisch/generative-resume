@@ -98,11 +98,11 @@
       "company": "MSO Digital GmbH & Co. KG",
       "summary": "",
       "position": "Junior Software Developer",
-      "startDate": "2014-09-01",
+      "startDate": "2014-09-15",
       "endDate": "2015-12-31",
       "location": "Osnabrück",
       "highlights": [
-      	"Administration und Support der Enterprise Collaboration Platform Google Apps for Work",
+      	"Administration and support of the Enterprise Collaboration Platform Google Apps for Work",
       	"Management of the entire CRM area of MSO Digital",
       	"Adaptation and further development of the Salesforce Sales Cloud of MSO Digital",
       	"Strategic consulting for the Salesforce implementation for a client",
@@ -120,17 +120,17 @@
       "highlights": [
       	"Definition of the research questions",
       	"Anforderungsanalyse",
-      	"Design of the system architecture",
+      	"Design of the system-architecture",
       	"Building a skill graph",
       	"Development of a Chrome extension (client)",
-      	"Definition of Cypher Queries"
+      	"Definition of Cypher-Queries"
       ]
     },
     {
       "company": "Fraunhofer IAO",
       "summary": "Work on subsections to develop a multi-resolution display.",
-      "position": "Certified research assistant",
-      "startDate": "2009-09-01",
+      "position": "Approved research assistant",
+      "startDate": "2009-09-20",
       "endDate": "2011-02-01",
       "location": "Stuttgart",
       "highlights": [
@@ -138,12 +138,14 @@
     },
     {
       "company": "Fraunhofer IAO",
-      "summary": "As part of my bachelor thesis, I worked on the development of a multi-resolution display.",
+      "summary": "Bachelor-Thesis: Basics for the development of a multi-resolution display",
       "position": "Auxiliary Scientist",
       "startDate": "2009-04-01",
-      "endDate": "2009-09-01",
+      "endDate": "2009-10-19",
       "location": "Stuttgart",
       "highlights": [
+        "Evaluation of algorithms for edge and vertex detection, as well as prototypical implementations",
+        "Verification of the algorithms by using a real experimental setup for the measurement of 3D projections"
       ]
     },
     {
@@ -159,9 +161,9 @@
     {
       "company": "Fraunhofer IAO",
       "summary": "During my internship semester, I was able to participate in the EU research project TrainALL. I designed and programmed a C++ API for recording driving simulation data, created a database design for capturing metadata and was allowed to present the project results in Stockholm.",
-      "position": "Praxissemester",
+      "position": "Internship",
       "startDate": "2008-03-01",
-      "endDate": "2008-08-31",
+      "endDate": "2008-08-08",
       "location": "Stuttgart",
       "highlights": [
       	"Performance testing of database systems",
@@ -177,7 +179,7 @@
       "summary": "During my apprenticeship as an IT specialist I was able to build up expertise with the (objectrational) DBMS Caché and Visual Basic.",
       "position": "Apprenticeship as IT specialist",
       "startDate": "2001-09-01",
-      "endDate": "2004-06-09",
+      "endDate": "2004-07-05",
       "location": "Pliezhusen",
       "highlights": [
       	"Database development with the DBMS Intersystems Caché",
@@ -208,7 +210,7 @@
       "area": "Application Architectures",
       "studyType": "Master of Science",
       "startDate": "2010-10-01",
-      "endDate": "2013-12-31",
+      "endDate": "2014-05-28",
       "location": "Furtwangen",
       "description": "Software Architecture, Data Warehouse, Artificial intelligence, Business Software, Model Driven Architecture"
     },
@@ -217,7 +219,7 @@
       "area": "General computer science",
       "studyType": "Bachelor of Science",
       "startDate": "2007-03-01",
-      "endDate": "2010-02-28",
+      "endDate": "2010-03-05",
       "location": "Furtwangen",
       "description": "Database applications, image processing, scientific computing"
     },
@@ -232,8 +234,8 @@
     },
     {
       "institution": "Ferdinand-von-Steinbeis-Schule",
-      "area": "Application Development",
-      "studyType": "Fachinformatiker",
+      "area": "Apprenticeship as IT specialist",
+      "studyType": "Application Development",
       "startDate": "2001-09-01",
       "endDate": "2004-07-05",
       "location": "Reutlingen"
@@ -391,12 +393,14 @@
     {
       "name": "Nutritional optimization",
       "summary": "This project is a private side project and has the objective to calculate the optimal ingredients for all meals of a day. In order for the ingredients to be considered optimal, they must fulfill two conditions: 1) they must cover the minimum values for nutrients specified by the German Nutrition Society and thus be beneficial to health 2) they must be the ones that have the lowest total weight among all possible foods and combinations. For this purpose, I scraped nutritional data and formulated the optimization problem as a linear system of equations, which I solved using the Python framework PuLP. Furthermore, I set up confidence intervals for the weight of the vegetables found, so that weighing the vegetables can be omitted.",
-      "url": ""
+      "url": "",
+      "date": "2020-11-19"
     },
     {
       "name": "Dynamic online resume",
       "summary": "After discovering the awesome project JSON Resume on GitHub, which defines a data format for a resume, I was looking for a way to generate an online resume / portfolio from it. After not finding a satisfactory solution, I developed one myself using React.js.",
-      "url": "https://github.com/florian-kalisch/generative-resume"
+      "url": "https://github.com/florian-kalisch/generative-resume",
+      "date": "2021-01-04"
     }
   ]
 }

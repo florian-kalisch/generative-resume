@@ -98,7 +98,7 @@
       "company": "MSO Digital GmbH & Co. KG",
       "summary": "",
       "position": "Junior Software Developer",
-      "startDate": "2014-09-01",
+      "startDate": "2014-09-15",
       "endDate": "2015-12-31",
       "location": "Osnabrück",
       "highlights": [
@@ -120,30 +120,32 @@
       "highlights": [
       	"Definition der Forschungsfragen",
       	"Requirements Engineering",
-      	"Entwurf der System Architektur",
+      	"Entwurf der System-Architektur",
       	"Aufbau eines Skill-Graph",
       	"Entwicklung einer Chrome Erweiterung (Client)",
-      	"Definition Cypher Queries"
+      	"Definition de Cypher-Queries"
       ]
     },
     {
       "company": "Fraunhofer IAO",
       "summary": "Arbeit an Teilbereichen zur Entwicklung eines Multi-Resolution-Displays.",
       "position": "Geprüfte wissenschaftliche Hilfskraft",
-      "startDate": "2009-09-01",
-      "endDate": "2011-02-01",
+      "startDate": "2009-09-20",
+      "endDate": "2011-02-28",
       "location": "Stuttgart",
       "highlights": [
       ]
     },
     {
       "company": "Fraunhofer IAO",
-      "summary": "Im Rahmen meiner Bachelor-Thesis arbeitete ich mit an der Entwicklung eines Multi-Resolution-Displays.",
+      "summary": "Bachelor-Thesis: Grundlagen zur Entwicklung eines Multi-Resolution-Displays",
       "position": "Hilfswissenschaftler",
       "startDate": "2009-04-01",
-      "endDate": "2009-09-01",
+      "endDate": "2009-10-19",
       "location": "Stuttgart",
       "highlights": [
+		"Evaluation von Algorithmen zur Kanten- und Eckpunkterkennung, sowie prototypische Implementierungen",
+        "Verifikation der Algorithmen anhand eines realen Versuchsaufbaus zur Vermessung von 3D Projektionen"
       ]
     },
     {
@@ -161,7 +163,7 @@
       "summary": "Im Rahmen meines Praxissemesters konnte ich an dem EU-Forschungsprojekt TrainALL mitwirken. Dabei konzipierte und programmierte ich eine C++ API zur Aufzeichnung von Fahrsimulationsdaten, entwarf ein Datenbankdesign zur Erfassung von Metadaten und durfte die Projektergebnisse in Stockholm präsentieren.",
       "position": "Praxissemester",
       "startDate": "2008-03-01",
-      "endDate": "2008-08-31",
+      "endDate": "2008-08-08",
       "location": "Stuttgart",
       "highlights": [
       	"Performancetests von Datenbanksystemen",
@@ -177,7 +179,7 @@
       "summary": "Im Rahmen meiner Ausbildung zu Fachinformatiker konnte ich Expertise mit dem (objektrationalen) DBMS Caché und Visual Basic aufbauen.",
       "position": "Ausbildung zum Fachinformatiker",
       "startDate": "2001-09-01",
-      "endDate": "2004-06-09",
+      "endDate": "2004-07-05",
       "location": "Pliezhusen",
       "highlights": [
       	"Datenbankentwicklung mit dem DBMS Intersystems Caché",
@@ -208,7 +210,7 @@
       "area": "Application Architectures",
       "studyType": "Master of Science",
       "startDate": "2010-10-01",
-      "endDate": "2013-12-31",
+      "endDate": "2014-05-28",
       "location": "Furtwangen",
       "description": "Software Architecture, Data Warehouse, Künstliche Intelligenz, Business Software, Model Driven Architecture"
     },
@@ -217,7 +219,7 @@
       "area": "Allgemeine Informatik",
       "studyType": "Bachelor of Science",
       "startDate": "2007-03-01",
-      "endDate": "2010-02-28",
+      "endDate": "2010-03-05",
       "location": "Furtwangen",
       "description": "Datenbankapplikationen, Bildverarbeitung, Scientific-Computing"
     },
@@ -232,8 +234,8 @@
     },
     {
       "institution": "Ferdinand-von-Steinbeis-Schule",
-      "area": "Anwendungsentwicklung",
-      "studyType": "Fachinformatiker",
+      "area": "Ausbildung zum Fachinformatiker",
+      "studyType": "Anwendungsentwicklung",
       "startDate": "2001-09-01",
       "endDate": "2004-07-05",
       "location": "Reutlingen"
@@ -391,12 +393,14 @@
     {
       "name": "Nährwertoptimierung",
       "summary": "Dieses Projekt ist ein privates Nebenprojekt und verfolgt die Zielsetzung, die optimalen Zutaten für alle Mahlzeiten eines Tages zu berechnen. Damit die Zutaten als optimal angesehen werden können, müssen sie zwei Bedingungen erfüllen: 1) sie müssen die von der Deutschen Gesellschaft für Ernährung vorgegebenen Mindestwerte für Nährstoffen abdecken und damit der Gesundheit dienlich sein 2) sie müssen unter allen möglichen Nahrungsmitteln und Kombinationen diejenigen sein, welche in Summe das geringste Gesamtgewicht besitzen. Dazu scrapte ich Nährwertdaten und formulierte das Optimierungsproblem als lineares Gleichungssystem, welches ich mit dem Python Framework PuLP löste. Weiterhin stellte ich Konfidenzintervalle für das Gewicht der gefundenen Gemüsesorten auf, so dass auf ein Wiegen des Gemüses verzichtet werden kann.",
-      "url": ""
+      "url": "",
+      "date": "2020-11-19"
     },
     {
       "name": "Dynamischer Online-Lebenslauf",
       "summary": "Nachdem ich das geniale Projekt JSON Resume auf GitHub entdeckte, welches ein Datenformat für einen Lebenslauf definiert, suchte ich nach einer Möglichkeit, um daraus einen Online Lebenslauf / Portfolio zu generieren. Nachdem ich keine zufriedenstellende Lösung gefunden habe, entwickelte ich unter Verwendung von React.js selbst eine.",
-      "url": "https://github.com/florian-kalisch/generative-resume"
+      "url": "https://github.com/florian-kalisch/generative-resume",
+      "date": "2021-01-04"
     }
   ]
 }
