@@ -25,7 +25,7 @@ function CvSidebar(props) {
 
     <aside id="sidebar">
 
-      <CvSideBarContact contact={props.contact.profiles} email={props.contact.email}/>
+      <CvSideBarContact contact={props.contact.profiles} email={props.contact.email} url={props.contact.url}/>
       
       <CvSideBarLanguages languages={props.languages}/>
       

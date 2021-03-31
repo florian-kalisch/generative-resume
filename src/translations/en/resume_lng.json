@@ -8,6 +8,7 @@
         "education": "Education",
         "languages": "Languages",
         "level": "Level",
-        "certificates": "Certificates"
+        "certificates": "Certificates",
+        "about": "About me"
     }
 }

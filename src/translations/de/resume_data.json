@@ -2,20 +2,23 @@
   "basics": {
     "name": "Florian Kalisch",
     "label": "",
-    "summary": "__/^\\__ Pro Standards, Kontra Durchschnittlichkeit. Entwickler (auf der Suche nach neuen Herausforderungen), der Daten ❤️, machine / deep learning und KI 🧠 im Allgemeinen, Neo4j 🕸, Blockchain, VR, und gute Unterhaltungen_ Falls meine Kompetenzen Ihr Interesse geweckt haben, freue ich mich über eine Kontaktaufnahme.",
+    "summary": "Pro Standards, Kontra Durchschnittlichkeit. Entwickler mit einem Faible für Daten, Künstliche Intelligenz, Neo4j, Blockchain, VR und gute Unterhaltungen.",
     "photo": "me.jpeg",
     "banner": "vision.svg",
+    "phone": "",
     "email": "kontakt@florian-kalisch.de",
+    "birthday": "06.12.1983",
+    "relationship": "ledig",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
+      "address": "Natruper Str. 127",
+      "postalCode": "49076",
+      "city": "Osnabrück",
       "countryCode": ""
     },
     "creationDate": "2020-01-04",
     "lastEditedDate": "2020-01-06",
-    "version": "1.1.0",
-    "website": "florian-kalisch.de",
+    "version": "1.2.0",
+    "url": "https://florian-kalisch.de",
     "profiles": [
       {
         "network": "linkedin",
@@ -33,7 +36,7 @@
         "network": "tableau",
         "username": "florian.kalisch",
         "url": "https://bit.ly/fka-tableau",
-        "fa": "globe"
+        "fa": "table"
       },
       {
         "network": "kaggle",
@@ -81,7 +84,7 @@
     },
     {
       "company": "MSO Digital GmbH & Co. KG",
-      "summary": "",
+      "summary": " ",
       "position": "Software Developer",
       "startDate": "2016-01-01",
       "endDate": "2017-12-31",
@@ -96,7 +99,7 @@
     },
     {
       "company": "MSO Digital GmbH & Co. KG",
-      "summary": "",
+      "summary": " ",
       "position": "Junior Software Developer",
       "startDate": "2014-09-15",
       "endDate": "2015-12-31",
@@ -206,7 +209,7 @@
   ],
   "education": [
     {
-      "institution": "Fachhochschule Furtwangen - Hochschule für Technik und Wirtschaft",
+      "institution": "HS Furtwangen",
       "area": "Application Architectures",
       "studyType": "Master of Science",
       "startDate": "2010-10-01",
@@ -215,7 +218,7 @@
       "description": "Software Architecture, Data Warehouse, Künstliche Intelligenz, Business Software, Model Driven Architecture"
     },
     {
-      "institution": "Fachhochschule Furtwangen - Hochschule für Technik und Wirtschaft",
+      "institution": "HS Furtwangen",
       "area": "Allgemeine Informatik",
       "studyType": "Bachelor of Science",
       "startDate": "2007-03-01",
@@ -224,7 +227,7 @@
       "description": "Datenbankapplikationen, Bildverarbeitung, Scientific-Computing"
     },
     {
-      "institution": "Fachhochschule Furtwangen - Hochschule für Technik und Wirtschaft",
+      "institution": "HS Furtwangen",
       "area": "Allgemeine Informatik",
       "studyType": "Diplomstudiengang [FH]",
       "startDate": "2004-10-01",
@@ -238,7 +241,8 @@
       "studyType": "Anwendungsentwicklung",
       "startDate": "2001-09-01",
       "endDate": "2004-07-05",
-      "location": "Reutlingen"
+      "location": "Reutlingen",
+      "description": " "
     },
     {
       "institution": "Ferdinand-von-Steinbeis-Schule",
@@ -253,60 +257,9 @@
   "skillEvaluationSchemaReference": "",
   "skills": [
     {
-      "name": "Wahrscheinlichkeitsrechnung",
-      "level": "Novice",
-      "levelNumeric": "2",
-      "keywords": []
-    },
-    {
-      "name": "Statistik",
-      "level": "Novice",
-      "levelNumeric": "2",
-      "keywords": [
-        "Distributionen",
-        "Zentraler Grenzwertsatz",
-        "Konfidenzintervalle",
-        "Hypothesentest",
-        "Regressionsanalyse",
-        "Clusteranalyse"
-      ]
-    },
-    {
-      "name": "Lineare Algebra",
-      "level": "Novice",
-      "levelNumeric": "2",
-      "keywords": []
-    },
-    {
-      "name": "Python",
-      "level": "Intermediate",
-      "levelNumeric": "3",
-      "keywords": [
-        "NumPy",
-        "pandas",
-        "matplotlib",
-        "scikit-learn",
-        "PuLP",
-        "deap",
-        "Scrapy"
-      ]
-    },
-    {
-      "name": "Genetische Algorithmen",
-      "level": "Novice",
-      "levelNumeric": "2",
-      "keywords": []
-    },
-    {
-      "name": "Fuzzylogik",
-      "level": "Novice",
-      "levelNumeric": "2",
-      "keywords": []
-    },
-    {
-      "name": "Deep Learning",
-      "level": "Fundamental Awareness",
-      "levelNumeric": "1",
+      "name": "PHP",
+      "level": "Advanced",
+      "levelNumeric": "4",
       "keywords": []
     },
     {
@@ -330,12 +283,6 @@
       ]
     },
     {
-      "name": "PHP",
-      "level": "Advanced",
-      "levelNumeric": "4",
-      "keywords": []
-    },
-    {
       "name": "JavaScript",
       "level": "Intermediate",
       "levelNumeric": "3",
@@ -353,16 +300,37 @@
       "keywords": []
     },
     {
+      "name": "Voice Apps",
+      "level": "Intermediate",
+      "levelNumeric": "3",
+      "keywords": []
+    },
+    {
+      "name": "Digitales Marketing",
+      "level": "Novice",
+      "levelNumeric": "2",
+      "keywords": []
+    },
+    {
       "name": "Neo4j",
       "level": "Novice",
       "levelNumeric": "2",
       "keywords": []
     },
     {
-      "name": "Voice Apps",
-      "level": "Intermediate",
-      "levelNumeric": "3",
-      "keywords": []
+      "name": "Python",
+      "level": "Novice",
+      "levelNumeric": "2",
+      "keywords": [
+        "deap",
+        "matplotlib",
+        "NumPy",
+        "Pandas",
+        "PuLP",
+        "Mako",
+        "scikit-learn",
+        "Scrapy"
+      ]
     },
     {
       "name": "Softwarearchitektur",
@@ -371,10 +339,29 @@
       "keywords": []
     },
     {
-      "name": "Digitales Marketing",
-      "level": "Novice",
-      "levelNumeric": "2",
+      "name": "Fuzzylogik",
+      "level": "Basic Knowledge",
+      "levelNumeric": "1",
       "keywords": []
+    },
+    {
+      "name": "Genetische Algorithmen",
+      "level": "Basic Knowledge",
+      "levelNumeric": "1",
+      "keywords": []
+    },
+    {
+      "name": "Lineare Algebra",
+      "level": "Basic Knowledge",
+      "levelNumeric": "1",
+      "keywords": []
+    },
+    {
+      "name": "Statistik",
+      "level": "Basic Knowledge",
+      "levelNumeric": "1",
+      "keywords": [
+      ]
     }
   ],
   "languages": [

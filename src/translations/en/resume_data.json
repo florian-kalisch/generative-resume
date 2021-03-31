@@ -2,20 +2,23 @@
   "basics": {
     "name": "Florian Kalisch",
     "label": "",
-    "summary": "__/^\\__ pro standards, contra averageness. Developer (looking for new Challenges) who ❤️ data, machine /deep learning and AI 🧠 in general, Neo4j 🕸, Blockchain, VR, and good conversations_ If my competences have aroused your interest, I would be pleased to hear from you.",
+    "summary": "Pro standards, con average. Developer with a love for data, Artificial Intelligence, Neo4j, Blockchain, VR, and good conversations.",
     "photo": "me.jpeg",
     "banner": "vision.svg",
+    "phone": "",
     "email": "kontakt@florian-kalisch.de",
+    "birthday": "06.12.1983",
+    "relationship": "single",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
+      "address": "Natruper Str. 127",
+      "postalCode": "49076",
+      "city": "Osnabrück",
       "countryCode": ""
     },
     "creationDate": "2020-01-04",
     "lastEditedDate": "2020-01-06",
-    "version": "1.1.0",
-    "website": "florian-kalisch.de",
+    "version": "1.2.0",
+    "url": "https://florian-kalisch.de",
     "profiles": [
       {
         "network": "linkedin",
@@ -33,7 +36,7 @@
         "network": "tableau",
         "username": "florian.kalisch",
         "url": "https://bit.ly/fka-tableau",
-        "fa": "globe"
+        "fa": "table"
       },
       {
         "network": "kaggle",
@@ -55,15 +58,15 @@
       "summary": "Lead the Research and Development department, with the goal of unlocking current and future technologies to strengthen the company's competitiveness and shape the future of digital marketing.",
       "position": "Head of Research and Development",
       "startDate": "2018-12-01",
-      "endDate": "present",
+      "endDate": "",
       "location": "Osnabrück",
       "highlights": [
-      	"Designing a strategy for tapping artificial intelligence and distributed ledger technology.",
-      	"Development and implementation of an agile process model for project planning and management of complex, application-oriented research projects",
-      	"Design and implementation of a scalable and cost-efficient data lake architecture based on Amazon Web Services",
-      	"Advising NOZ Digital GmbH on the use of machine learning techniques",
-      	"Advising management on the procedural design of transactions in the context of M&A projects",
-      	"Preparation of a detailed guideline for technical due diligence"
+        "Designing a strategy for tapping artificial intelligence and distributed ledger technology.",
+        "Development and implementation of an agile process model for project planning and management of complex, application-oriented research projects",
+        "Design and implementation of a scalable and cost-efficient data lake architecture based on Amazon Web Services",
+        "Advising NOZ Digital GmbH on the use of machine learning techniques",
+        "Advising management on the procedural design of transactions in the context of M&A projects",
+        "Preparation of a detailed guideline for technical due diligence"
       ]
     },
     {
@@ -74,40 +77,40 @@
       "endDate": "2018-11-30",
       "location": "Osnabrück",
       "highlights": [
-      	"Design and implementation of the \"Marketing Guru\" voice app for MSO Digital using the following technology stack: JOVO Framework, AWS Lambda, AWS API Gateway, AWS DynamoDB, PHP and MySQL.",
-      	"Giving lectures on the topic of Voice User Interfaces at the Osnabrück University of Applied Sciences",
-      	"Design of a voice concept for a client"
+        "Design and implementation of the \"Marketing Guru\" voice app for MSO Digital using the following technology stack: JOVO Framework, AWS Lambda, AWS API Gateway, AWS DynamoDB, PHP and MySQL.",
+        "Giving lectures on the topic of Voice User Interfaces at the Osnabrück University of Applied Sciences",
+        "Design of a voice concept for a client"
       ]
     },
     {
       "company": "MSO Digital GmbH & Co. KG",
-      "summary": "",
+      "summary": " ",
       "position": "Software Developer",
       "startDate": "2016-01-01",
       "endDate": "2017-12-31",
       "location": "Osnabrück",
       "highlights": [
-      	"Facebook based job listings for Meyer & Meyer",
-      	"Implementation of an AngularJS, PHP and MySQL based budget table",
-      	"Implementation of an AngularJS, PHP and MySQL based solution for the creation of recurring JIRA tasks.",
-      	"Design of a SaaS dashboard for publishers in a team and sole implementation of data sourcing and data visualization of Facebook data",
-      	"Design of a software architecture for the migration of a customized Salesforce instance and implementation of the architecture using PHP and MySQL"
+        "Facebook based job listings for Meyer & Meyer",
+        "Implementation of an AngularJS, PHP and MySQL based budget table",
+        "Implementation of an AngularJS, PHP and MySQL based solution for the creation of recurring JIRA tasks.",
+        "Design of a SaaS dashboard for publishers in a team and sole implementation of data sourcing and data visualization of Facebook data",
+        "Design of a software architecture for the migration of a customized Salesforce instance and implementation of the architecture using PHP and MySQL"
       ]
     },
     {
       "company": "MSO Digital GmbH & Co. KG",
-      "summary": "",
+      "summary": " ",
       "position": "Junior Software Developer",
       "startDate": "2014-09-15",
       "endDate": "2015-12-31",
       "location": "Osnabrück",
       "highlights": [
-      	"Administration and support of the Enterprise Collaboration Platform Google Apps for Work",
-      	"Management of the entire CRM area of MSO Digital",
-      	"Adaptation and further development of the Salesforce Sales Cloud of MSO Digital",
-      	"Strategic consulting for the Salesforce implementation for a client",
-      	"Design and implementation of Salesforce dashboards",
-      	"Design and implementation of a web service for MDH AG, for the validation of contact form data and subsequent transfer to Salesforce"
+        "Administration and support of the Enterprise Collaboration Platform Google Apps for Work",
+        "Management of the entire CRM area of MSO Digital",
+        "Adaptation and further development of the Salesforce Sales Cloud of MSO Digital",
+        "Strategic consulting for the Salesforce implementation for a client",
+        "Design and implementation of Salesforce dashboards",
+        "Design and implementation of a web service for MDH AG, for the validation of contact form data and subsequent transfer to Salesforce"
       ]
     },
     {
@@ -118,12 +121,12 @@
       "endDate": "2013-11-30",
       "location": "Munich",
       "highlights": [
-      	"Definition of the research questions",
-      	"Anforderungsanalyse",
-      	"Design of the system-architecture",
-      	"Building a skill graph",
-      	"Development of a Chrome extension (client)",
-      	"Definition of Cypher-Queries"
+        "Definition of the research questions",
+        "Requirements analysis",
+        "Design of the system-architecture",
+        "Building a skill graph",
+        "Development of a Chrome extension (client)",
+        "Definition of Cypher-Queries"
       ]
     },
     {
@@ -166,12 +169,12 @@
       "endDate": "2008-08-08",
       "location": "Stuttgart",
       "highlights": [
-      	"Performance testing of database systems",
-      	"Conception of a C++ API for the recording of driving data",
-      	"Entwurf eines Datenbankdesigns zur Verwaltung der Fahrdaten sowie zugehörigen Metadaten",
-      	"Conception of a web application (based on the Spring framework)",
-      	"Presentation of the project status at an international project meeting in Stockholm",
-      	"Writing of a 70 page report in English language"
+        "Performance testing of database systems",
+        "Conception of a C++ API for the recording of driving data",
+        "Design of a database for the management of driving data and related metadata",
+        "Conception of a web application (based on the Spring framework)",
+        "Presentation of the project status at an international project meeting in Stockholm",
+        "Writing of a 70 page report in English language"
       ]
     },
     {
@@ -182,11 +185,11 @@
       "endDate": "2004-07-05",
       "location": "Pliezhusen",
       "highlights": [
-      	"Database development with the DBMS Intersystems Caché",
-      	"Development with Caché Server Pages",
-      	"Application development with Visual Basic",
-      	"Development of a management software for vacation requests in the team",
-      	"Final project: Development of a generator for dynamic WebWizards"
+        "Database development with the DBMS Intersystems Caché",
+        "Development with Caché Server Pages",
+        "Application development with Visual Basic",
+        "Development of a management software for vacation requests in the team",
+        "Final project: Development of a generator for dynamic WebWizards"
       ]
     }
   ],
@@ -206,7 +209,7 @@
   ],
   "education": [
     {
-      "institution": "Fachhochschule Furtwangen - Hochschule für Technik und Wirtschaft",
+      "institution": "HS Furtwangen",
       "area": "Application Architectures",
       "studyType": "Master of Science",
       "startDate": "2010-10-01",
@@ -215,7 +218,7 @@
       "description": "Software Architecture, Data Warehouse, Artificial intelligence, Business Software, Model Driven Architecture"
     },
     {
-      "institution": "Fachhochschule Furtwangen - Hochschule für Technik und Wirtschaft",
+      "institution": "HS Furtwangen",
       "area": "General computer science",
       "studyType": "Bachelor of Science",
       "startDate": "2007-03-01",
@@ -224,7 +227,7 @@
       "description": "Database applications, image processing, scientific computing"
     },
     {
-      "institution": "Fachhochschule Furtwangen - Hochschule für Technik und Wirtschaft",
+      "institution": "HS Furtwangen",
       "area": "General computer science",
       "studyType": "Diploma program [FH]",
       "startDate": "2004-10-01",
@@ -238,7 +241,8 @@
       "studyType": "Application Development",
       "startDate": "2001-09-01",
       "endDate": "2004-07-05",
-      "location": "Reutlingen"
+      "location": "Reutlingen",
+      "description": " "
     },
     {
       "institution": "Ferdinand-von-Steinbeis-Schule",
@@ -253,60 +257,9 @@
   "skillEvaluationSchemaReference": "",
   "skills": [
     {
-      "name": "Probability",
-      "level": "Novice",
-      "levelNumeric": "2",
-      "keywords": []
-    },
-    {
-      "name": "Statistik",
-      "level": "Novice",
-      "levelNumeric": "2",
-      "keywords": [
-        "Distributions",
-        "Central limit theorem",
-        "Confidence intervals",
-        "Hypothesis testing",
-        "Regression analysis",
-        "Cluster analysis"
-      ]
-    },
-    {
-      "name": "Linear algebra",
-      "level": "Novice",
-      "levelNumeric": "2",
-      "keywords": []
-    },
-    {
-      "name": "Python",
-      "level": "Intermediate",
-      "levelNumeric": "3",
-      "keywords": [
-        "NumPy",
-        "pandas",
-        "matplotlib",
-        "scikit-learn",
-        "PuLP",
-        "deap",
-        "Scrapy"
-      ]
-    },
-    {
-      "name": "Genetic algorithms",
-      "level": "Novice",
-      "levelNumeric": "2",
-      "keywords": []
-    },
-    {
-      "name": "Fuzzy logic",
-      "level": "Novice",
-      "levelNumeric": "2",
-      "keywords": []
-    },
-    {
-      "name": "Deep Learning",
-      "level": "Fundamental Awareness",
-      "levelNumeric": "1",
+      "name": "PHP",
+      "level": "Advanced",
+      "levelNumeric": "4",
       "keywords": []
     },
     {
@@ -330,12 +283,6 @@
       ]
     },
     {
-      "name": "PHP",
-      "level": "Advanced",
-      "levelNumeric": "4",
-      "keywords": []
-    },
-    {
       "name": "JavaScript",
       "level": "Intermediate",
       "levelNumeric": "3",
@@ -353,16 +300,37 @@
       "keywords": []
     },
     {
+      "name": "Voice Apps",
+      "level": "Intermediate",
+      "levelNumeric": "3",
+      "keywords": []
+    },
+    {
+      "name": "Digital marketing",
+      "level": "Novice",
+      "levelNumeric": "2",
+      "keywords": []
+    },
+    {
       "name": "Neo4j",
       "level": "Novice",
       "levelNumeric": "2",
       "keywords": []
     },
     {
-      "name": "Voice Apps",
-      "level": "Intermediate",
-      "levelNumeric": "3",
-      "keywords": []
+      "name": "Python",
+      "level": "Novice",
+      "levelNumeric": "2",
+      "keywords": [
+        "deap",
+        "matplotlib",
+        "NumPy",
+        "Pandas",
+        "PuLP",
+        "Mako",
+        "scikit-learn",
+        "Scrapy"
+      ]
     },
     {
       "name": "Software Architecture",
@@ -371,10 +339,29 @@
       "keywords": []
     },
     {
-      "name": "Digital marketing",
-      "level": "Novice",
-      "levelNumeric": "2",
+      "name": "Fuzzy logic",
+      "level": "Basic Knowledge",
+      "levelNumeric": "1",
       "keywords": []
+    },
+    {
+      "name": "Genetic algorithms",
+      "level": "Basic Knowledge",
+      "levelNumeric": "1",
+      "keywords": []
+    },
+    {
+      "name": "Linear algebra",
+      "level": "Basic Knowledge",
+      "levelNumeric": "1",
+      "keywords": []
+    },
+    {
+      "name": "Statistics",
+      "level": "Basic Knowledge",
+      "levelNumeric": "1",
+      "keywords": [
+      ]
     }
   ],
   "languages": [

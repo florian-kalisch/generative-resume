@@ -30,6 +30,7 @@ function CvSideBarContact(props) {
         </h2>
         <ul>
           <li><i><FontAwesomeIcon icon="envelope"/></i> <span><a href={props.email}>{props.email}</a></span></li>
+          <li><i><FontAwesomeIcon icon="globe"/></i> <span><a href={props.url}>{props.url}</a></span></li>
         </ul>
 
         <h2>
